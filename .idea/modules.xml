@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaTraining.iml" filepath="$PROJECT_DIR$/JavaTraining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaarrays/javaarrays.iml" filepath="$PROJECT_DIR$/javaarrays/javaarrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaclasses/javaclasses.iml" filepath="$PROJECT_DIR$/javaclasses/javaclasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javainheritance/javainheritance.iml" filepath="$PROJECT_DIR$/javainheritance/javainheritance.iml" />
+    </modules>
+  </component>
+</project>
