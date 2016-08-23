@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javahashmap.javahashmap">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/javahashmap/build/libs/javahashmap.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

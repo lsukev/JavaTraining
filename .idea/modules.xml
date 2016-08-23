@@ -4,9 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaTraining.iml" filepath="$PROJECT_DIR$/JavaTraining.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaarraylists/javaarraylists.iml" filepath="$PROJECT_DIR$/javaarraylists/javaarraylists.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaarrays/javaarrays.iml" filepath="$PROJECT_DIR$/javaarrays/javaarrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaclasses/javaclasses.iml" filepath="$PROJECT_DIR$/javaclasses/javaclasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javahashmap/javahashmap.iml" filepath="$PROJECT_DIR$/javahashmap/javahashmap.iml" />
       <module fileurl="file://$PROJECT_DIR$/javainheritance/javainheritance.iml" filepath="$PROJECT_DIR$/javainheritance/javainheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javalsu/javalsu.iml" filepath="$PROJECT_DIR$/javalsu/javalsu.iml" />
     </modules>
   </component>
 </project>

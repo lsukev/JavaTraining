@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javaarrays.javaarrays">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/javaarrays/build/libs/javaarrays.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

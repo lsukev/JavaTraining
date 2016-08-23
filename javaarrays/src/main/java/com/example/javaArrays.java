@@ -10,7 +10,7 @@ public class javaArrays {
             System.out.println("Array values: " + myArray[i]);
         }
         for (int i =0; i < myStrings.length; i++){
-            System.out.println("At index: " + i + myStrings[i]);
+            System.out.println("At index: " + i + " Array values: " + myStrings[i]);
         }
     }
 }

@@ -1,1 +1,1 @@
-include ':app', ':javaclasses', ':javainheritance', ':javaarrays'
+include ':app', ':javaclasses', ':javainheritance', ':javaarrays', ':javaarraylists', ':javahashmap', ':javalsu'
